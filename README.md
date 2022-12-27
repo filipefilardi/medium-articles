@@ -1,4 +1,4 @@
-# medium_articles
+# Medium Articles
 
 <div align='center'>
 
