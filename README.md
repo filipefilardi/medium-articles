@@ -6,7 +6,7 @@
 
 ### Hey there! 👋
 
-Here is a collection of my articles on medium. You can also check them on [Medium](https://medium.com/@filipefilardi).
+Thanks for checking out! Here is a collection of my articles on [Medium](https://medium.com/@filipefilardi)
 
 ### Python Written Course
 
