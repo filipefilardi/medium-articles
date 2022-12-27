@@ -10,8 +10,6 @@ Hey there!
 
 Here is a collection of my articles on medium. You can also check them on [Medium](https://medium.com/@filipefilardi).
 
-# Table of Contents
-
 ## Python Written Course
 
 - [Getting Started with Python: A Beginner’s Guide](https://medium.com/@filipefilardi/getting-started-with-python-a-beginners-guide-9de15d4e9824)
