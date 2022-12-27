@@ -14,3 +14,4 @@ Thanks for checking out! Here is a collection of my articles on [Medium](https:/
 - [Which Python IDE is Right for Your Needs?](https://medium.com/@filipefilardi/which-python-ide-is-right-for-your-needs-9d18fe82d55c)
 - [A Comprehensive Guide to Python Syntax](https://medium.com/@filipefilardi/a-comprehensive-guide-to-python-syntax-3204f07cb175)
 - [Essential Skills for Effective Code Reuse](https://medium.com/@filipefilardi/essential-skills-for-effective-code-reuse-31ca420d435a)
+- [Mastering Comparison Operators and if Statements in Python](https://medium.com/@filipefilardi/mastering-comparison-operators-and-if-statements-in-python-a0704a711600)
