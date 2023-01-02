@@ -16,3 +16,4 @@ Thanks for checking out! Here is a collection of my articles on [Medium](https:/
 - [Essential Skills for Effective Code Reuse](https://medium.com/@filipefilardi/essential-skills-for-effective-code-reuse-31ca420d435a)
 - [Mastering Comparison Operators and if Statements in Python](https://medium.com/@filipefilardi/mastering-comparison-operators-and-if-statements-in-python-a0704a711600)
 - [Essential Guide to Loops and Recursion in Python](https://medium.com/@filipefilardi/essential-guide-to-loops-and-recursion-in-python-d3013e8728a6)
+- [Strings in Python: From Basics to Advanced Techniques](https://medium.com/@filipefilardi/strings-in-python-from-basics-to-advanced-techniques-56553cb33ce1)
