@@ -23,3 +23,4 @@ Thanks for checking out! Here is a collection of my articles on [Medium](https:/
 ### Data Science
 
 - [Effective Categorical Variable Encoding for Machine Learning](https://pub.towardsai.net/effective-categorical-variable-encoding-for-machine-learning-b25683035589)
+- [3 Reasons You Should Avoid Pie Plots At All Costs](https://pub.towardsai.net/3-reasons-you-should-avoid-pie-plots-at-all-costs-6548d0184f98)
