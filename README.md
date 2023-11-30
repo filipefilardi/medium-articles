@@ -29,3 +29,4 @@ Thanks for checking out! Here is a collection of my articles on [Medium](https:/
 
 ### Development
 - [7 reasons you struggle to learn to code and how to fix them](https://levelup.gitconnected.com/7-reasons-you-struggle-to-learn-to-code-and-how-to-fix-them-b1e7af363969)
+- [Launching My First App with Zero Experience](https://medium.com/gitconnected/launching-my-first-app-with-zero-experience-4d5ccc5ee21c)
